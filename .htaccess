@@ -1,0 +1,9 @@
+Options -Indexes
+indexIgnore */*
+Options FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^admin(/.+)?$ backend/web/$1 [L,PT]
+RewriteRule ^admin/(.+)?$ backend/web/$1 [L,PT]
+
+RewriteRule ^(.+)?$ frontend/web/$1

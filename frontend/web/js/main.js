@@ -79,7 +79,7 @@
     var map;
     var mapId  = document.getElementById("map-id");
     var latlng = new google.maps.LatLng(40.38421,71.78432);
-
+    
     map = new google.maps.Map(mapId,{
 
             center : latlng,

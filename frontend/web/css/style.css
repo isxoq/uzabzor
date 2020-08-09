@@ -226,7 +226,9 @@ ul.nav > li:hover > a {
 .main-menu .themeix-nav > li > a {
   display: inline-block;
   padding:20px 10px;
-  font-weight:700;
+  font-weight:900;
+  font-family: Arial;
+  /* text-transform: capitalize; */
 }
 .modal-title {
 	color: #333333;

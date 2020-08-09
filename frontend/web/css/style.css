@@ -1896,3 +1896,14 @@ button.jscolor {
  img.lazy {
     background: transparent url(../images/ring.gif) no-repeat 50% 50%;
 }
+
+.header-section .logo{
+  /* border:1px solid red; */
+  height: 100%;
+  width: auto;
+  margin:0px;
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+
+}

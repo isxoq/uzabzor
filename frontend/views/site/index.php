@@ -15,7 +15,7 @@ $this->title = 'My Yii Application';
                            <div class="single-video">
                             <div class="video-img feature-post-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" alt="Video" src="images/slider_1.jpg">
+                                    <img class="lazy" alt="Video" src="/images/slider_1.jpg">
                                 </a>
                                 <span class="video-duration">8.12</span>
                             </div>
@@ -30,7 +30,7 @@ $this->title = 'My Yii Application';
                            <div class="single-video">
                             <div class="video-img feature-post-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" alt="Video" src="images/slider_2.jpg">
+                                    <img class="lazy" alt="Video" src="/images/slider_2.jpg">
                                 </a>
                                 <span class="video-duration">10.52</span>
                             </div>
@@ -43,7 +43,7 @@ $this->title = 'My Yii Application';
                             <div class="single-video">
                             <div class="video-img feature-post-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" alt="Video" src="images/slider_3.jpg">
+                                    <img class="lazy" alt="Video" src="/images/slider_3.jpg">
                                 </a>
                                 <span class="video-duration">5.28</span>
                             </div>
@@ -58,7 +58,7 @@ $this->title = 'My Yii Application';
                            <div class="single-video">
                             <div class="video-img feature-post-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" alt="Video" src="images/slider_4.jpg">
+                                    <img class="lazy" alt="Video" src="/images/slider_4.jpg">
                                 </a>
                                 <span class="video-duration">5.28</span>
                             </div>
@@ -71,7 +71,7 @@ $this->title = 'My Yii Application';
                             <div class="single-video">
                             <div class="video-img feature-post-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" alt="Video" src="images/slider_5.jpg">
+                                    <img class="lazy" alt="Video" src="/images/slider_5.jpg">
                                 </a>
                                 <span class="video-duration">5.28</span>
                             </div>
@@ -102,9 +102,9 @@ $this->title = 'My Yii Application';
                         <div class="single-video">
                             <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/28.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/28.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/28.jpg" alt="video" />
+                                        <img src="/images/thumbnails/28.jpg" alt="video" />
                                     </noscript>
                                 </a>
                                 <span class="video-duration">5.28</span>
@@ -132,9 +132,9 @@ $this->title = 'My Yii Application';
                         <div class="single-video">
                             <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/2.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/2.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/2.jpg" alt="video" />
+                                    <img src="/images/thumbnails/2.jpg" alt="video" />
                                 </noscript>
                                 </a>
                                 <span class="video-duration">3.11</span>
@@ -162,9 +162,9 @@ $this->title = 'My Yii Application';
                         <div class="single-video">
                             <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/23.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/23.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/23.jpg" alt="video" />
+                                    <img src="/images/thumbnails/23.jpg" alt="video" />
                                 </noscript>
                                 </a>
                                 <span class="video-duration">5.10</span>
@@ -192,9 +192,9 @@ $this->title = 'My Yii Application';
                         <div class="single-video">
                             <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/4.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/4.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/4.jpg" alt="video" />
+                                    <img src="/images/thumbnails/4.jpg" alt="video" />
                                 </noscript>
                                 </a>
                                 <span class="video-duration">2.29</span>
@@ -222,7 +222,7 @@ $this->title = 'My Yii Application';
                         <div class="single-video">
                             <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/5.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/5.jpg" alt="Video" />
                                 </a>
                                 <span class="video-duration">5.28</span>
                             </div>
@@ -269,7 +269,7 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/6.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/6.jpg" alt="Video" />
                                 </a>
                             <span class="video-duration">5.28</span>
                         </div>
@@ -298,9 +298,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/7.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/7.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/7.jpg" alt="video" />
+                                    <img src="/images/thumbnails/7.jpg" alt="video" />
                                 </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -330,9 +330,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/8.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/8.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/8.jpg" alt="video" />
+                                    <img src="/images/thumbnails/8.jpg" alt="video" />
                                 </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -362,9 +362,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                             <a href="single-video.html">
-                            <img class="lazy" data-src="images/thumbnails/9.jpg" alt="Video" />
+                            <img class="lazy" data-src="/images/thumbnails/9.jpg" alt="Video" />
                              <noscript>
-                                <img src="images/thumbnails/9.jpg" alt="video" />
+                                <img src="/images/thumbnails/9.jpg" alt="video" />
                             </noscript>
                             </a>
                             <span class="video-duration">5.28</span>
@@ -394,9 +394,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/10.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/10.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/10.jpg" alt="video" />
+                                    <img src="/images/thumbnails/10.jpg" alt="video" />
                                 </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -426,9 +426,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                             <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/11.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/11.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/11.jpg" alt="video" />
+                                    <img src="/images/thumbnails/11.jpg" alt="video" />
                                 </noscript>
                             </a>
                             <span class="video-duration">5.28</span>
@@ -458,9 +458,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                             <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/12.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/12.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/12.jpg" alt="video" />
+                                    <img src="/images/thumbnails/12.jpg" alt="video" />
                                 </noscript>
                             </a>
                             <span class="video-duration">5.28</span>
@@ -490,9 +490,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                             <a href="single-video.html">
-                                <img class="lazy" data-src="images/thumbnails/13.jpg" alt="Video" />
+                                <img class="lazy" data-src="/images/thumbnails/13.jpg" alt="Video" />
                                  <noscript>
-                                    <img src="images/thumbnails/13.jpg" alt="video" />
+                                    <img src="/images/thumbnails/13.jpg" alt="video" />
                                 </noscript>
                             </a>
                             <span class="video-duration">5.28</span>
@@ -535,9 +535,9 @@ $this->title = 'My Yii Application';
                         <div class="single-review">
                             <div class="review-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/41.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/41.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/41.jpg" alt="video" />
+                                        <img src="/images/thumbnails/41.jpg" alt="video" />
                                     </noscript>
                                 </a>
                                 <span class="video-duration">5.28</span>
@@ -571,9 +571,9 @@ $this->title = 'My Yii Application';
                         <div class="single-review">
                             <div class="review-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/42.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/42.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/42.jpg" alt="video" />
+                                        <img src="/images/thumbnails/42.jpg" alt="video" />
                                     </noscript>
                                 </a>
                                 <span class="video-duration">5.28</span>
@@ -607,9 +607,9 @@ $this->title = 'My Yii Application';
                         <div class="single-review">
                             <div class="review-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/43.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/43.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/43.jpg" alt="video" />
+                                        <img src="/images/thumbnails/43.jpg" alt="video" />
                                     </noscript>
                                 </a>
                                 <span class="video-duration">5.28</span>
@@ -643,9 +643,9 @@ $this->title = 'My Yii Application';
                         <div class="single-review">
                             <div class="review-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/44.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/44.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/44.jpg" alt="video" />
+                                        <img src="/images/thumbnails/44.jpg" alt="video" />
                                     </noscript>
                                 </a>
                                 <span class="video-duration">5.28</span>
@@ -687,7 +687,7 @@ $this->title = 'My Yii Application';
                         </div>
                         <div class="single-contributor">
                             <div class="contributor-img">
-                                <a href="#"><img src="images/team/1.jpg" alt="team"></a>
+                                <a href="#"><img src="/images/team/1.jpg" alt="team"></a>
                             </div>
                             <div class="contributor-content">
                                 <h4><a href="#" class="heading-link">James Combap</a></h4>
@@ -697,7 +697,7 @@ $this->title = 'My Yii Application';
                         </div>
                         <div class="single-contributor">
                             <div class="contributor-img">
-                                <a href="#"><img src="images/team/2.jpg" alt="team"></a>
+                                <a href="#"><img src="/images/team/2.jpg" alt="team"></a>
                             </div>
                             <div class="contributor-content">
                                 <h4><a href="#" class="heading-link">Matthew S. Villanueva</a></h4>
@@ -707,7 +707,7 @@ $this->title = 'My Yii Application';
                         </div>
                         <div class="single-contributor">
                             <div class="contributor-img">
-                                <a href="#"><img src="images/team/3.jpg" alt="team"></a>
+                                <a href="#"><img src="/images/team/3.jpg" alt="team"></a>
                             </div>
                             <div class="contributor-content">
                                 <h4><a href="#" class="heading-link">Arden E. Halpern</a></h4>
@@ -718,7 +718,7 @@ $this->title = 'My Yii Application';
 
                         <div class="single-contributor">
                             <div class="contributor-img">
-                                <a href="#"><img src="images/team/5.jpg" alt="team"></a>
+                                <a href="#"><img src="/images/team/5.jpg" alt="team"></a>
                             </div>
                             <div class="contributor-content">
                                 <h4><a href="#" class="heading-link">David C. Burle</a></h4>
@@ -753,7 +753,7 @@ $this->title = 'My Yii Application';
             <div class="row">
                 <div class="col-md-12">
                     <div class="big-banner">
-                        <a href="#"><img src="images/banners/1.jpg" alt="banner"></a>
+                        <a href="#"><img src="/images/banners/1.jpg" alt="banner"></a>
                     </div>
                 </div>
             </div>
@@ -777,9 +777,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/55.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/55.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/55.jpg" alt="video" />
+                                        <img src="/images/thumbnails/55.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -809,9 +809,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/48.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/48.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/48.jpg" alt="video" />
+                                        <img src="/images/thumbnails/48.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -841,9 +841,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/49.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/49.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/49.jpg" alt="video" />
+                                        <img src="/images/thumbnails/49.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -873,9 +873,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/50.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/50.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/50.jpg" alt="video" />
+                                        <img src="/images/thumbnails/50.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -905,9 +905,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/51.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/51.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/51.jpg" alt="video" />
+                                        <img src="/images/thumbnails/51.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -937,9 +937,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/52.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/52.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/52.jpg" alt="video" />
+                                        <img src="/images/thumbnails/52.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -969,9 +969,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/53.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/53.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/53.jpg" alt="video" />
+                                        <img src="/images/thumbnails/53.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -1001,9 +1001,9 @@ $this->title = 'My Yii Application';
                     <div class="single-video">
                         <div class="video-img">
                                 <a href="single-video.html">
-                                    <img class="lazy" data-src="images/thumbnails/54.jpg" alt="Video" />
+                                    <img class="lazy" data-src="/images/thumbnails/54.jpg" alt="Video" />
                                      <noscript>
-                                        <img src="images/thumbnails/54.jpg" alt="video" />
+                                        <img src="/images/thumbnails/54.jpg" alt="video" />
                                     </noscript>
                                 </a>
                             <span class="video-duration">5.28</span>
@@ -1035,7 +1035,7 @@ $this->title = 'My Yii Application';
     <!-- End Sports News Area -->
     <!-- Start Call To Action Area -->
     <div class="call-to-action-area hover-bg">
-        <div class="container">
+        <div class="container"> 
             <div class="row">
                 <div class="col-md-9">
                     <div class="action-content">

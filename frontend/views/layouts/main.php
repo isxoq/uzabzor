@@ -121,7 +121,7 @@ AppAsset::register($this);
                        <div class="mod-menu">
                         <div class="row">
                             <div class="col-3">
-                                <a href="index.html " title="logo" class="logo"><img src="images/logo.png" alt="logo"></a>
+                                <a href="<?=yii\helpers\Url::to(['index']);?>" title="logo" class="logo"><img src="/images/uzabzor_logo.png" alt="logo"></a>
                             </div>
                             <div class="col-9 nopadding">
                                 <div class="main-nav rightnav">
@@ -132,16 +132,16 @@ AppAsset::register($this);
                                     </ul>
                                     <div id="menu" class="collapse header-menu">
                                         <ul class="nav themeix-nav">
-                                            <li><a href="#">Home</a><span class="arrow"></span>
-                                                <ul class="dm-align-2 mega-list">
+                                            <li><a href="<?=yii\helpers\Url::to(['index']);?>">Home</a><span class="arrow"></span>
+                                                <!-- <ul class="dm-align-2 mega-list">
                                                     <li><a href="index.html">Home One</a></li>
                                                     <li><a href="index-2.html">Home Two</a></li>
                                                     <li><a href="index-3.html">Home Three</a></li>
                                                     <li><a href="index-4.html">Home Four</a></li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li><a href="#">Pages</a> <span class="arrow"></span>
-                                                <ul class="dm-align-2 mega-list">
+                                                <!-- <ul class="dm-align-2 mega-list">
                                                     <li><a href="index.html">Home</a></li>
                                                     <li><a href="index-2.html">Home 2</a></li>
                                                     <li><a href="index-3.html">Home 3</a></li>
@@ -158,10 +158,10 @@ AppAsset::register($this);
                                                     </li>
                                                     <li><a href="contact.html">Contact</a></li>
                                                     <li><a href="404.html">404</a></li>
-                                                </ul>
+                                                </ul> -->
                                             </li>                                           
                                             <li><a href="blog.html">blog</a> </li>
-                                            <li class="mega-menu remove-border active"><a href="#">Mega Menu</a><span class="arrow"></span>
+                                            <!-- <li class="mega-menu remove-border active"><a href="#">Mega Menu</a><span class="arrow"></span>
                                                 <ul>
                                                     <li><span class="subtitle">Home Pages</span> <span class="arrow"></span>
                                                         <ul class="mega-list">
@@ -193,7 +193,7 @@ AppAsset::register($this);
                                                         </ul>
                                                     </li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
                                             <li><a href="contact.html" title="contact">Contact</a></li>
                                             <li><a href="single-blog.html" title="single blog">Single Blog</a></li>
                                         </ul>
@@ -298,7 +298,7 @@ AppAsset::register($this);
                     <div class="col-sm-12">
                         <div class="footer-bottom">
                             <div class="footer-logo">
-                                <a href="#"><img src="images/logo.png" alt="logo"></a>
+                                <a href="#"><img src="/images/logo.png" alt="logo"></a>
                             </div>
                             <div class="footer-links">
                                 <ul>

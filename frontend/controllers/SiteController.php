@@ -72,6 +72,11 @@ class SiteController extends Controller
      *
      * @return mixed
      */
+
+
+
+
+     
     public function actionIndex()
     {
         return $this->render('index');
@@ -134,6 +139,10 @@ class SiteController extends Controller
             ]);
         }
     }
+
+
+    
+
 
     /**
      * Displays about page.

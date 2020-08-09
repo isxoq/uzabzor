@@ -34,7 +34,7 @@ AppAsset::register($this);
                             <div class="site-info left">
                                 <div class="mail-address">
                                     <i class="fa fa-envelope-o"></i>
-                                    <a href="mailto:nfo@themeix.com">info@themeix.com </a>
+                                    <a href="mailto:nfo@themeix.com">bkhurvaliev@gmail.com </a>
                                     <span class="sepator">|</span>
                                 </div>
                                 <div class="server-time">
@@ -132,7 +132,7 @@ AppAsset::register($this);
                                     </ul>
                                     <div id="menu" class="collapse header-menu">
                                         <ul class="nav themeix-nav">
-                                            <li><a href="<?=yii\helpers\Url::to(['index']);?>">Home</a><span class="arrow"></span>
+                                            <li><a href="<?=yii\helpers\Url::to(['index']);?>">Bosh Sahifa</a><span class="arrow"></span>
                                                 <!-- <ul class="dm-align-2 mega-list">
                                                     <li><a href="index.html">Home One</a></li>
                                                     <li><a href="index-2.html">Home Two</a></li>
@@ -160,7 +160,7 @@ AppAsset::register($this);
                                                     <li><a href="404.html">404</a></li>
                                                 </ul> -->
                                             </li>                                           
-                                            <li><a href="blog.html">blog</a> </li>
+                                            <li><a href="<?=yii\helpers\Url::to(['blog']);?>">O'zimizning musiqa</a> </li>
                                             <!-- <li class="mega-menu remove-border active"><a href="#">Mega Menu</a><span class="arrow"></span>
                                                 <ul>
                                                     <li><span class="subtitle">Home Pages</span> <span class="arrow"></span>
@@ -194,7 +194,7 @@ AppAsset::register($this);
                                                     </li>
                                                 </ul>
                                             </li> -->
-                                            <li><a href="contact.html" title="contact">Contact</a></li>
+                                            <li><a href="<?=yii\helpers\Url::to(['contact']);?>" title="contact">Contact</a></li>
                                             <li><a href="single-blog.html" title="single blog">Single Blog</a></li>
                                         </ul>
                                     </div>

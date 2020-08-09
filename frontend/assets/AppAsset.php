@@ -12,7 +12,8 @@ class AppAsset extends AssetBundle
     public $basePath = '@webroot';
     public $baseUrl = '@web';
     public $css = [
-        'css/site.css',
+        // 'css/site.css',
+        'https://fonts.googleapis.com/css?family=Poppins:300,400,500,700',
         'css/bootstrap.min.css',
         'css/font-awesome.min.css',
         'css/pgwslider.min.css',
@@ -34,12 +35,10 @@ class AppAsset extends AssetBundle
         'js/jquery.lazy.plugins.min.js',
         'js/megamenu.js',
         'js/main.js',
-            
-
 
     ];
     public $depends = [
         'yii\web\YiiAsset',
-        'yii\bootstrap\BootstrapAsset',
+        // 'yii\bootstrap\BootstrapPluginAsset',
     ];
 }

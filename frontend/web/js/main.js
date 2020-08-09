@@ -78,7 +78,7 @@
  function contactPageMap(){
     var map;
     var mapId  = document.getElementById("map-id");
-    var latlng = new google.maps.LatLng(-33.868820,151.209296);
+    var latlng = new google.maps.LatLng(40.38421,71.78432);
 
     map = new google.maps.Map(mapId,{
 
@@ -90,7 +90,7 @@
   var  marker = new google.maps.Marker({
           position: latlng,
           map : map,
-          title : "Sydney",
+          title : "Fergana",
           animation : google.maps.Animation.BOUNCE,
           icon   : "assets/images/map/mobile-phones.png"
 
